@@ -1,4 +1,4 @@
-# gpb3037 Earth Data Science Portfolio
+# G. Paul Bailey - Earth Data Science Portfolio
  <img src="https://github.com/gpb3037/gpb3037.github.io/blob/main/img/gpb-pi-777wm.jpg" alt="piFspiral" width="200" height="200" > 
 <div>
  Current Employment
