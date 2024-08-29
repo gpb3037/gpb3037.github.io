@@ -4,8 +4,8 @@
 <div>
  Current Employment
   <ul>
-    <li><a href="https://www.colorado.edu/police/" target="_blank">CUPD</a></li>
-    <li><a href="https://www.census.gov/programs-surveys/acs/" target="_blank">US Census ACS</a></li>
+    <li>Community Safety Official (CSO) for <a href="https://www.colorado.edu/police/" target="_blank">CUPD</a></li>
+    <li>Field Representative (FR) for <a href="https://www.census.gov/programs-surveys/acs/" target="_blank">US Census ACS</a></li>
   </ul>
 </div>
 Class work
