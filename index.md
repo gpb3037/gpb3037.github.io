@@ -11,5 +11,5 @@ Current Employment
 Class work
 <br />​<hr />​​​​​​​​​​​​​​​​​​​<br />
 First Map
-<embed type="text/html" src="img/uttc.html" width="600" height="600">
+<embed type="text/html" src="ucb.html" width="600" height="600">
 
