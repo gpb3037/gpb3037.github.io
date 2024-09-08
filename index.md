@@ -12,3 +12,5 @@
  
 </div> 
 Class work
+First Map
+<embed type="text/html" src="img/uttc.html" width="600" height="600">
