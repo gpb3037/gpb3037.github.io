@@ -7,8 +7,7 @@ Current Employment
     <li>Field Representative (FR) for <a href="https://www.census.gov/programs-surveys/acs/" target="_blank">US Census ACS</a></li>
     <a href="https://www.linkedin.com/in/gpaulbailey/" target="_blank">LinkedIn</a>
   </ul>
-</div>
-​<hr />​​​​​​​​​​​​​​​​​​​
+​​​​​​​​​​​​​​​​
 Class work
 <br />​<hr />​​​​​​​​​​​​​​​​​​​<br />
 First Map
