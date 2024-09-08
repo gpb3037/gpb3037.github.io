@@ -8,8 +8,7 @@ Current Employment
     <a href="https://www.linkedin.com/in/gpaulbailey/" target="_blank">LinkedIn</a>
   </ul>
 </div>
-# Class work
- <ul>
-<li>First Map</li>
+Class work
+First Map
 <embed type="text/html" src="img/uttc.html" width="600" height="600">
-</ul>
+
