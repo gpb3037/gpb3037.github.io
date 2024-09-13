@@ -12,4 +12,4 @@ Current Employment
 ## Class Work
 
 ### First Map
-<embed type="text/html" src="ucb.html" width="600" height="600">
+<embed type="text/html" src="posts/o1-first-map/ucb.html" width="600" height="600">
