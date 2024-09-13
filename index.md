@@ -8,9 +8,10 @@ Current Employment
     <a href="https://www.linkedin.com/in/gpaulbailey/" target="_blank">LinkedIn</a>
   </ul>
 ​​​​​​​​​​​​​​​​</div>
-Class work
-<br />​<hr />​​​​​​​​​​​​​​​​​​​</br>
-First Map
+
+## Class Work
+
+### First Map
 
 ## University of Colorado - Boulder (Main Campus)
 ### This map shows the main campus of the University of Colorado (a.k.a. CU Boulder).  Established in 1876, the first building is <a href="https://www.colorado.edu/coloradan/2018/03/30/then-and-now-old-main">Old Main</a> located 40.009°N, -105.273°W, along the grassy quadrangle in the nortwestern portion of the campus outline.  Other of the <a href="https://www.colorado.edu/masterplan/history/cu-boulders-oldest-buildings">oldest buildings</a> on campus generally surround the <a href="https://www.historycolorado.org/location/norlin-quadrangle-historic-district">Norlin Quadrangle Historic District.</a>
