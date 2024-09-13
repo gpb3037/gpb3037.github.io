@@ -9,7 +9,7 @@ Current Employment
   </ul>
 ​​​​​​​​​​​​​​​​</div>
 Class work
-<br />​<hr />​​​​​​​​​​​​​​​​​​​<br />
+<br />​<hr />​​​​​​​​​​​​​​​​​​​</br>
 First Map
 
 ## University of Colorado - Boulder (Main Campus)
