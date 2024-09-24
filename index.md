@@ -19,6 +19,7 @@ Map data from Open Street Map and Esi Imagery
 
 ### Climate Data Analysis (INTERIM VERSION) - Boulder Colorado
 #### This graph shows NOAA Global Historical Climatology Network daily climate data for Boulder Colorado obtained from the ESIIL Learning Portal for Station <a href="https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00050848/detail">USC0005048</a>. That station has a precipitation and temperature data coverage of 97% with Start Date of 1893-10-01, and the extract from the learning portal includes data through 2023-09-30
+<img src="posts/02-climate/climate-coding-challenge-gpb3037-v1.png" alt="interim climate post" height="400" >
 
 ##### There is discontinuity of data in the set for temperatures
 * No temperature values until 1902
