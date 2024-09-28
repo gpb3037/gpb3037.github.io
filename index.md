@@ -20,4 +20,3 @@ Map data from Open Street Map and Esi Imagery
 ### Climate Data Analysis Steamboat Springs
 <embed type="text/html" src="posts/02-climate/steamboatmeantemp.html" width="600" height="600">
 
-
