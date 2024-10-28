@@ -30,3 +30,5 @@ Map data from Open Street Map and Esi Imagery
 * 1994 is also missing a lot of data 
 ##### Temperature is converted from Fahrenheit in the dataset to Celsius in the graph.  The graph is interactive.
 <embed type="text/html" src="posts/02-climate/BCOMEANTEMP2.html" width="600" height="600">
+
+
