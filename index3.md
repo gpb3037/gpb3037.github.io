@@ -20,9 +20,4 @@ Map data from Open Street Map and Esi Imagery
 ### Climate Data Analysis Steamboat Springs
 <embed type="text/html" src="posts/02-climate/steamboatmeantemp.html" width="600" height="600">
 
-### Species Migration
-#### Example of the migration patterns of the Veery thrush (Catharus fuscescens)
-#### There is particular interest in this species as there are indications that
-#### migration patterns may be able to predict the strength of an upcoming
-#### hurricane season <a href= "https://www.nature.com/articles/s41598-018-28302-3" target="_blank">A Nearctic-Neotropical Migratory Songbird’s Nesting Phenology and Clutch Size are Predictors of Accumulated Cyclone Energy</a>
 
