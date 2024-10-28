@@ -23,5 +23,8 @@ Map data from Open Street Map and Esi Imagery
 ### Species Migration
 #### Example of the migration patterns of the Veery thrush (Catharus fuscescens)
 #### There is particular interest in this species as there are indications that migration patterns may be able to predict the strength of an upcoming hurricane season <a href= "https://www.nature.com/articles/s41598-018-28302-3" target="_blank">A Nearctic-Neotropical Migratory Songbird’s Nesting Phenology and Clutch Size are Predictors of Accumulated Cyclone Energy</a>
+##### manipulate the slide bar mentioning "month" below to see the sample migration data from 2017
 
 <embed type="text/html" src="posts/03-species/migration.html" width="600" height="600">
+
+##### Code used <a href= "posts/03-species/SpeciesMigration-code.html" target="_blank"> Source code<a> 
