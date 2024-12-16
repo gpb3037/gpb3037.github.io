@@ -27,4 +27,7 @@ Map data from Open Street Map and Esi Imagery
 
 <embed type="text/html" src="posts/03-species/migration.html" width="600" height="600">
 
-##### Code used <a href= "posts/03-species/SpeciesMigration-code.html" target="_blank"> Source code<a> 
+##### Code used <a href= "posts/03-species/SpeciesMigration-code.html" target="_blank"> Source code<a>
+
+### Habitat Suitability
+#### Example of analysis of habitat for Colorado Blue Spruce (Picea pungens)
