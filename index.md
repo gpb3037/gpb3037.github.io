@@ -31,4 +31,4 @@ Map data from Open Street Map and Esi Imagery
 
 ### Habitat Suitability
 #### Example of analysis of habitat for Colorado Blue Spruce (Picea pungens)
-##### Code used <a href= "posts/04-habitat/habitat.html" target="_blank"> Source code<a>
+##### link to <a href= "posts/04-habitat/habitat.html" target="_blank"> Preliminary Analysis<a>
